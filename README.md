@@ -1,4 +1,4 @@
-OVERVIEW:
+
 Implementation of a small enterprise-style campus network using VLAN segmentation, inter-VLAN routing, HSRP for gateway redundancy, and DHCP services for automated IP addressing.
 
 Key Concepts
@@ -19,3 +19,5 @@ What I Learned
 - How HSRP provides default gateway redundancy and ensures high availability.
 - How to verify failover and network functionality using show commands and connectivity tests.
 - The importance of proper network design for scalability, redundancy, and reliability.
+
+<img width="964" height="619" alt="hsrp-topology" src="https://github.com/user-attachments/assets/214d5bda-e9f4-47b2-8b7a-1b6fa5ff5dde" />
